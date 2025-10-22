@@ -1,7 +1,7 @@
 /* Copyright (c) 2025 MTHS All rights reserved
  *
  * Created by: Sultan
- * Created on: Sep 2020
+ * Created on: Oct 2025
  * This program controls a servo
 */
 
